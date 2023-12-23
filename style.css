@@ -2,10 +2,10 @@ html {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.meno {
-    font-style: bold;
+#meno {
+    font-weight: bold;
 }
 
-.titul {
+#titul {
     font-style: italic;
 }
